@@ -7,10 +7,6 @@ read num3 = 3
 cvcdvxvxv
 ccvcxvxcvxv
 
-sub 
-num2
-num3
-
 
 multlipication 
 
